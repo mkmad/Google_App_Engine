@@ -1,0 +1,16 @@
+insert
+check
+checkcache
+retrive
+retrive
+remove
+removecache
+removeall
+removeallcache
+listall
+listname
+cachesize
+cachefilesize
+storagesize
+storagefilesize
+Runtest
